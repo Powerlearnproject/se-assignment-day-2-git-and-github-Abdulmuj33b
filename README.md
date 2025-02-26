@@ -195,6 +195,7 @@ Best Practices:
 5. Branch Protection: Enable branch protection rules to prevent direct pushes to the main branch and enforce reviews.
 6. Conflict Resolution: Use tools like git mergetool to resolve conflicts systematically and communicate with collaborators.
 7. Documentation: Maintain a README and contribution guidelines to help new contributors understand the workflow.
+
 Strategies for Smooth Collaboration:
 - Communication: Use issues, comments, and project boards to discuss changes and track progress.
 - Automation: Leverage GitHub Actions for Continuous Integration/Continuous Deployment (CI/CD) pipelines to automate testing and deployment.
